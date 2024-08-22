@@ -1,0 +1,22 @@
+# Changelog for Link's Awakening
+
+## Version 1.6.7
+- Strategy names in the prediction section now turn dark red when the current loss streak is 4 or greater.
+- Text color reverts to the original when the loss streak drops below 4 or resets.
+- Updated version number and related references.
+
+## Version 1.6.5
+- Added new strategy: Animal Style.
+- Updated version number and related references.
+
+## Version 1.6.4x
+- Added count boxes for Player, Banker, and Tie hands.
+- Fixed bug with prediction sequence resetting after all hands are deleted.
+- Improved UI for dark mode compatibility.
+
+## Version 1.4
+- Added new strategies: The Gentleman and Mr. Miyagi.
+- Improved strategy statistics tracking.
+
+## Version 1.3
+- Initial release with basic strategies and predictions.
